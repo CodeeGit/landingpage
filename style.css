@@ -1,0 +1,221 @@
+body{
+    font-family: roboto;
+}
+
+
+.header{
+    height: 180px;
+    background-color: #1F2937;
+    margin:-10px;
+    display:flex;
+
+}
+
+.headerlogo{
+    color: white;
+    font-size: 24px;
+    font-weight: 800 ;
+    margin: 20px 0 0 210px;
+
+}
+
+.headerlink{
+    color: #E5E7EB;
+    margin-top: 24px;
+    font-size: 18px;
+
+}
+.linkone{
+    margin-left: auto;
+    margin-right: 24px;
+}
+
+.linkthree{
+    margin-right: 135px;
+    margin-left: 24px;
+}
+
+a {
+ color: inherit;
+ text-decoration: none;
+}
+
+.blockone{
+    display: flex;
+    flex-flow:column wrap;
+    background-color: #1F2937;
+    height: 300px;
+    margin-left:-10px;
+    margin-right:-10px;
+}
+
+
+.twia{
+    font-weight: bolder;
+    font-size: 48px;
+    color:#F9FAF8;
+    width:500px;
+    margin-left:210px;
+}
+
+.subtext{
+    color:#E5E7EB;
+    font-size: 18px;
+    width:450px;
+    margin-left:210px;
+
+}
+
+.signup{
+    background-color:#3882F6;
+    color:white;
+    font-weight: bold;
+    font-size: 16px;
+    margin-left:210px;
+    margin-top: 16px;
+    height: 35px;
+    width: 130px;
+    border-radius: 10px;
+    border-style: none;
+    
+}
+
+.image{
+    height:240px;
+    width:520px;
+    margin-right: 140px;
+    margin-left:auto;
+    background-color: rgb(37, 36, 37);
+    color: gray;
+    line-height: 240px;
+    text-align: center;
+}
+
+.blocktwo{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    text-align: center;
+}
+
+.blocktwo img{
+    width:175px;
+    height: 180px;
+    border:4px solid #3882F6;
+    border-radius: 30px;
+    background-color: white;
+
+
+}
+
+.box{
+    width:175px;
+    height:360px;
+    margin: 0 24px 0 24px;
+    
+}
+
+.rndm{
+    text-align: center;
+    align-self: center;
+    justify-items: center;
+    font-weight: bolder;
+    color: black;
+    font-size: 35px;
+    padding:30px;
+}
+
+.blockthree{
+    display: flex;
+    flex-wrap: wrap;
+    background-color: #E5E7EB;
+}
+
+.quote{
+    font-style: italic;
+    font-weight: 200;
+    font-size: 36px;
+    color: #1F2937;
+    width: 800px;
+    Margin: 100px auto 0 auto;
+
+}
+
+.quoterefcontainer{
+    width:800px;
+    margin: 0 auto 100px auto;
+
+}
+
+.quoteref{
+    display:flex;
+    justify-content: flex-end;
+    font-size: 24px;
+    font-weight: bolder;
+}
+
+.blockfour{
+    background-color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width:auto;
+    height:400px;
+}
+
+.bluebox{
+    background-color: #3882F6;
+    display:flex;
+    width:1100px;
+    height:150px;
+    border-radius: 10px;
+    flex-flow: column wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.call{
+    display: flex;
+    width: 600px;
+    margin-left:120px;
+    color:white;
+    font-weight: bolder;
+    font-size: 28px;
+
+
+}
+
+.signupquote{
+    display: flex;
+    width: 600px;
+    margin-left: 120px;
+    margin-top: 5px;;
+    color: rgb(224, 212, 212);
+
+}
+
+.signupbutton{
+    margin: 80px 120px 80px auto;
+    padding: 4px;
+    height:50px;
+    width: 120px;
+    color: white;
+    background-color: #3882F6;
+    border-color: white;
+    border-width: 2px;
+    border-radius: 4px;
+    font-size: 18px;
+    font-weight: bolder;
+    border-style: solid;
+    
+}
+
+.copyright{
+    background-color: rgb(24, 23, 23);
+    color: white;
+    text-align: center;
+    line-height: 200px;
+    height: 200px;
+    margin: -40px;
+}
